@@ -8,8 +8,10 @@
 						<p class="category">De totale lijst met courses</p>
 						<div class="container">
 							<?php if ($_SESSION['role'] == 'admin') { ?>
-              	<a id="admin_add_course" href="dashboard.php?page=add_course">Voeg course toe</a><br>
-								<a id="admin_view_income" href="dashboard.php?page=income">Bekijk de inkomsten</a>
+                            <form>
+                            <input type="button" id="admin_add_course" onclick="location.href='dashboard.php?page=add_course';" value="Voeg course toe" /><br>
+                            <input type="button" id="admin_add_income" onclick="location.href='dashboard.php?page=income';" value="Bekijk de inkomsten" />
+                            </form>
               <?php }   // endif ?>
 						</div>
 					</div>

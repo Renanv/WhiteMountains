@@ -1,4 +1,4 @@
-﻿<?php require_once('../lib/header.php'); ?>
+<?php require_once('../lib/header.php'); ?>
 <body>
   <div class="wrapper">
 <!-- Build sidebar -->
@@ -62,8 +62,8 @@
           <div class="row">
             <div class="col-md-12 header_banner" style="background-size:cover; background-image:url('../assets/img/office.jpg');"> 
               <div class="header_title">
-                <h1>White Mountains Winter Sports</h1>
-                <p style="width:60%; display:block; margin:0 auto;">  
+                <h1 class="tekst">White Mountains Winter Sports</h1>
+                <p class="tekst" style="width:60%; display:block; margin:0 auto;">  
                 <br />
                 <br />
                 <br />
@@ -96,8 +96,8 @@
             </div>
           </div>
           <div class="col-md-12" id="red_bg">
-            <h2>Welkom bij White Mountains Winter Sports!</h2>
-            <p>Ben jij een toerskiër? Beginnend of gevorderd? En vind je het leuk om in groepsverband tochten te skiën? Sluit je dan aan bij onze vereniging. </br>Met een groter ledenaantal en hulp van leden kunnen we gezamenlijk meer tochten organiseren: </br>
+            <h2 class="tekst">Welkom bij White Mountains Winter Sports!</h2>
+            <p class="tekst">Ben jij een toerskiër? Beginnend of gevorderd? En vind je het leuk om in groepsverband tochten te skiën? Sluit je dan aan bij onze vereniging. </br>Met een groter ledenaantal en hulp van leden kunnen we gezamenlijk meer tochten organiseren: </br>
             - Skiing Courses</br>
             - Cross Country Tours</br>
             - Snowboarding Courses</br> </p>

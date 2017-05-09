@@ -50,7 +50,7 @@
         </div>
       </nav>
  
-      <div class="content">
+      <div class="content" id="contact">
         <div class="container-fluid" style="text-align:center; padding:20px;">
           <h2>Contact</h2>
           <li><b>Adres:</b></li>
@@ -62,6 +62,10 @@
           <li>0514 692 727 </li><br>
           <li><b>E-mailadres:</b></li>
           <li>info@snow.nl</li><br>
+            <li><b>Het kantoor van White Mountains Winter Sports is bereikbaar op:</b></li>
+            <li>Maandag t/m vrijdag: 9:00 uur - 17:00 uur</li>
+            <li>Zaterdag: 9:00 uur - 13:00 uur </li>
+            <li><i>Zon- en feestdagen: gesloten</i></li>
         </div>
       </div>
 

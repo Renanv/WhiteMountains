@@ -1,6 +1,6 @@
  <?php
       //connect met de database
-      $cnx = mysqli_connect("localhost","root","root", "snow");						
+      $cnx = mysqli_connect("localhost","root","", "snow");						
       if (!$cnx) {
          die("Can not Connect:" .mysqli_connect_error());
       }
